@@ -24,6 +24,8 @@ Cada ejercicio está implementado en una clase independiente:
 - `SumaConsecutivos.java`
 - `Potencia.java`
 - `SumaDigitos.java`
+- `Fibonacci.java`
+
 
 Todas las funciones son llamadas desde la clase principal `Main.java`.
 
@@ -47,13 +49,22 @@ Para ejecutar el proyecto:
 ## 🧑‍💻 Ejemplo de Salida
 
 ```plaintext
+--------------- SUMA DE CONSECUTIVOS ---------------
 Ingrese un número entero positivo: 5
 Suma de consecutivos hasta 5: 15
+
+---------------------- POTENCIA --------------------
 Ingrese la base la potencia: 2
 Ingrese el expotente la potencia: 3
 Potencia 2^3 = 8
+
+---------------------- SUMA DIGITOS ------------------
 Ingrese un número entero positivo: 12345
 Suma de dígitos de 1234: 15
+
+----------------------- FIBONACCI --------------------
+Ingrese un numero entero positivo: 9
+ecuencia de Fibonacci hasta el número: 34
 ```
 
 ---
